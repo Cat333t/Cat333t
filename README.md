@@ -18,6 +18,10 @@
 
 ###
 
+<img align="left" height="196" src="https://i.gifer.com/758R.gif"  />
+
+###
+
 <h2 align="center">💻 Tech Stack:</h2>
 
 ###
