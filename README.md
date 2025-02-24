@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="180" src="https://i.gifer.com/Ao.gif"  />
+<img align="right" height="180" src="./images/cat.gif"  />
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<img align="left" height="196" src="https://i.gifer.com/758R.gif"  />
+<img align="left" height="196" src="./images/hacker.gif"  />
 
 ###
 
