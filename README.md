@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm Kostya!</h1>
 
-<p align="left">Hey there! I'm Kostya, a passionate 8th-grade student who loves exploring the world of web development. I enjoy learning new technologies, building cool projects, and improving my coding skills every day. I'm always excited to take on new challenges and grow as a developer!</p>
+<p align="left">Hey there! I'm Kostya, a passionate 9th-grade student who loves exploring the world of web development. I enjoy learning new technologies, building cool projects, and improving my coding skills every day. I'm always excited to take on new challenges and grow as a developer!</p>
 
 <h2 align="center">💫 About Me: </h2>
 
