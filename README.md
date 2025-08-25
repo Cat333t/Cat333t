@@ -13,15 +13,7 @@
 <h2 align="center">💻 Tech Stack:</h2>
 
 <div align="center">
-  <a href='https://ru.wikipedia.org/wiki/Node.js'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
-  <img width="12" />
-  <a href='https://ru.wikipedia.org/wiki/JavaScript'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></a>
-  <img width="12" />
-  <a href='https://ru.wikipedia.org/wiki/HTML'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
-  <img width="12" />
-  <a href='https://ru.wikipedia.org/wiki/CSS'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></a>
-  <img width="12" />
-  <a href='https://en.wikipedia.org/wiki/Express.js'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  /></a>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,tauri,python,bots,nodejs,npm,express,docker,git,github,mongodb,&theme=dark)](https://skillico
 </div>
 
 <h2 align="center">📊 GitHub Stats:</h2>
