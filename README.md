@@ -13,7 +13,7 @@
 <h2 align="center">💻 Tech Stack:</h2>
 
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,tauri,python,bots,nodejs,npm,express,docker,git,github,mongodb,&theme=dark)](https://skillico
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,tauri,python,bots,nodejs,npm,express,docker,git,github,mongodb,&theme=dark)](https://skillicons.dev)
 </div>
 
 <h2 align="center">📊 GitHub Stats:</h2>
