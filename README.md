@@ -12,7 +12,12 @@
 
 <h2 align="center">💻 Tech Stack:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,tauri,python,bots,nodejs,npm,express,docker,git,github,mongodb,&theme=dark)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,rust,tauri,python,nodejs,npm,express,docker,git,github,mongodb&theme=dark" />
+  </a>
+</p>
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
