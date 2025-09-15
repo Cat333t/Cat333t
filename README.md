@@ -1,7 +1,9 @@
-<h1 align="left">👋 Hi, I'm Kostya!</h1>
+<!-- <h1 align="left">👋 Hi, I'm Kostya!</h1> -->
+
+<img src="./images/github-header-banner.png" width="100%" />
 
 <p align="left">
-Hey there! I'm Kostya, a 9th-grade student passionate about web development. I love exploring new technologies, building projects, and sharpening my coding skills every day. Always excited to take on challenges and grow as a developer! 🚀
+Hey there! I'm a 9th grade student passionate about web development. I love exploring new technologies, building projects, and sharpening my coding skills every day. Always excited to take on challenges and grow as a developer! 🚀 
 </p>
 
 <h2 align="center">💫 About Me</h2>
@@ -35,3 +37,4 @@ Hey there! I'm Kostya, a 9th-grade student passionate about web development. I l
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cat333t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="Top languages" />
   </a>
 </div>
+
